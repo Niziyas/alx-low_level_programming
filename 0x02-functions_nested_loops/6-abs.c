@@ -6,16 +6,16 @@
   *
   * Return: Absolute value of number or zero
   */
-int _abs(int a)
+int _abs(int c)
 {
-	if (a < 0)
+	if (c < 0)
 	{
 		int abs_val;
 
-		abs_val = a * -1;
+		abs_val = c * -1;
 
 		return (abs_val);
 	}
 
-	return (a);
+	return (c);
 }
