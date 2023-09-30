@@ -9,7 +9,7 @@
             "cStandard": "c17",
             "cppStandard": "c++14",
             "intelliSenseMode": "linux-clang-x64",
-            "compilerPath": "/usr/bin/clang-11"
+            "compilerPath": "/home/imed/alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c"
         }
     ],
     "version": 4
