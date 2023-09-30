@@ -3,13 +3,14 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "\\wsl.localhost\\Ubuntu\\usr\\include"
             ],
             "defines": [],
             "cStandard": "c17",
             "cppStandard": "c++14",
             "intelliSenseMode": "linux-clang-x64",
-            "compilerPath": "/home/imed/alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c"
+            "compilerPath": ""
         }
     ],
     "version": 4

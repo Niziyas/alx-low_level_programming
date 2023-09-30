@@ -1,4 +1,4 @@
 {
     "C_Cpp.errorSquiggles": "enabled",
-    "C_Cpp.default.compilerPath": "C:\\wsl.localhost\\Ubuntu\\usr\\include"
+    "C_Cpp.default.compilerPath": "\\wsl.localhost\\Ubuntu\\usr\\include"
 }
