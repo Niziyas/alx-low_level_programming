@@ -3,8 +3,7 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**",
-                "\\wsl.localhost\\Ubuntu\\usr\\include"
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "cStandard": "c17",
