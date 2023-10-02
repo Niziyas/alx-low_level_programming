@@ -4,12 +4,12 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "gcc",
+            "command": "gcc-11",
             "args": [
                 "-g",
-                "main.c",
+                "\\wsl.localhost\\Ubuntu\\home\\imed\\alx-low_level_programming\\.vscode", // Specify the correct relative path
                 "-o",
-                "main"
+                "\\wsl.localhost\\Ubuntu\\home\\imed\\alx-low_level_programming\\0x0B-malloc_free" // Specify the correct relative path
             ],
             "group": {
                 "kind": "build",
@@ -19,6 +19,8 @@
                 "reveal": "always",
                 "panel": "new"
             }
-        }
+        },
+        // Other tasks...
     ]
-}
+ }
+ 
